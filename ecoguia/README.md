@@ -68,10 +68,10 @@ Abaixo estão algumas demonstrações visuais da nossa aplicação:
 ## 🔗 Como Usar (Links Úteis)
 
 - **Repositório do GitHub:** https://github.com/IwaataNz3/Ecoguia-React-FIAP
-- **Pitch / Vídeo de Demonstração (YouTube):** [Insira o link para o vídeo no YOUTUBE aqui]
+- **Como baixar e rodar o repositório:** [Insira o link para o vídeo no YOUTUBE aqui]
 
 ## ✉️ Contato
 
 Caso tenha dúvidas sobre o projeto ou a arquitetura proposta:
-- **E-mail Geral:** contato@ecoguia.com.br
-- **Suporte Técnico:** suporte@ecoguia.com.br
+- **E-mail Geral:** rm573723@fiap.com.br
+- **Suporte Técnico:** rm574057@fiap.com.br
