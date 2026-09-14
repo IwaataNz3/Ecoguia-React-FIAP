@@ -68,7 +68,7 @@ Abaixo estão algumas demonstrações visuais da nossa aplicação:
 ## 🔗 Como Usar (Links Úteis)
 
 - **Repositório do GitHub:** https://github.com/IwaataNz3/Ecoguia-React-FIAP
-- **Como baixar e rodar o repositório:** [Insira o link para o vídeo no YOUTUBE aqui]
+- **Como baixar e rodar o repositório:** https://www.youtube.com/watch?v=UzH9BQ6zijA
 
 ## ✉️ Contato
 
