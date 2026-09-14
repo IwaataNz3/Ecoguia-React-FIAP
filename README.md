@@ -40,30 +40,30 @@ Equipe responsável pelo desenvolvimento do EcoGuia:
 
 | Foto | Nome / RM / Turma | GitHub | LinkedIn |
 | :---: | :--- | :--- | :--- |
-| ![Ana](./src/assets/img/foto-ana.jpeg) | **Ana Paula Cunha Brum**<br>RM: 571359<br>Turma: 1º TDSR | [abbrum](https://github.com/abbrum) | [LinkedIn](https://www.linkedin.com/in/ana-paula-brum/) |
-| ![Gabriella](./src/assets/img/foto-gabriella.jpg) | **Gabriella Serni Ponzetta**<br>RM: 566296<br>Turma: 1º TDSR | [gabriellaserni](https://github.com/gabriellaserni) | [LinkedIn](https://www.linkedin.com/in/gabriellaserni/) |
-| ![Victor](./src/assets/img/foto-victor.jpg) | **Victor Felipe Silva Alencar**<br>RM: 574057<br>Turma: 1º TDSR | [alencarVictor](https://github.com/alencarVictor) | [LinkedIn](https://www.linkedin.com/in/victor-alencar-58623a3ba/) |
-| ![Julio](./src/assets/img/foto-julio.jpg) | **Julio Cesar Iwata de Oliveira Barros**<br>RM: 573723<br>Turma: 1º TDSR | [IwaataNz3](https://github.com/IwaataNz3) | [LinkedIn](https://www.linkedin.com/in/julioiwata/) |
-| ![Rafael](./src/assets/img/foto-rafael.jpg) | **Rafael Santos Dias**<br>RM: 574105<br>Turma: 1º TDSR | [realrafaelsd](https://github.com/realrafaelsd) | [LinkedIn](https://www.linkedin.com/in/rafaelsd/) |
+| ![Ana](./ecoguia/src/assets/img/foto-ana.jpeg) | **Ana Paula Cunha Brum**<br>RM: 571359<br>Turma: 1º TDSR | [abbrum](https://github.com/abbrum) | [LinkedIn](https://www.linkedin.com/in/ana-paula-brum/) |
+| ![Gabriella](./ecoguia/src/assets/img/foto-gabriella.jpg) | **Gabriella Serni Ponzetta**<br>RM: 566296<br>Turma: 1º TDSR | [gabriellaserni](https://github.com/gabriellaserni) | [LinkedIn](https://www.linkedin.com/in/gabriellaserni/) |
+| ![Victor](./ecoguia/src/assets/img/foto-victor.jpg) | **Victor Felipe Silva Alencar**<br>RM: 574057<br>Turma: 1º TDSR | [alencarVictor](https://github.com/alencarVictor) | [LinkedIn](https://www.linkedin.com/in/victor-alencar-58623a3ba/) |
+| ![Julio](./ecoguia/src/assets/img/foto-julio.jpg) | **Julio Cesar Iwata de Oliveira Barros**<br>RM: 573723<br>Turma: 1º TDSR | [IwaataNz3](https://github.com/IwaataNz3) | [LinkedIn](https://www.linkedin.com/in/julioiwata/) |
+| ![Rafael](./ecoguia/src/assets/img/foto-rafael.jpg) | **Rafael Santos Dias**<br>RM: 574105<br>Turma: 1º TDSR | [realrafaelsd](https://github.com/realrafaelsd) | [LinkedIn](https://www.linkedin.com/in/rafaelsd/) |
 
 ## 🖼️ Imagens e Ícones do Projeto
 
 Abaixo estão algumas demonstrações visuais da nossa aplicação:
 
 ### Alma Digital
-![Alma Digital](./src/assets/img/alma.png)
+![Alma Digital](./ecoguia/src/assets/img/alma.png)
 *O avatar que evolui de acordo com suas ações ecológicas validadas pelo motor.*
 
 ### Screenshots
 
 **Página Inicial (Home)**
-![Home](./src/assets/img/home.png)
+![Home](./ecoguia/src/assets/img/home.png)
 
 **Painel do Usuário (Dashboard)**
-![Dashboard](./src/assets/img/dashboard.png)
+![Dashboard](./ecoguia/src/assets/img/dashboard.png)
 
 **Trilha de Marcos**
-![Marcos](./src/assets/img/marcos.png)
+![Marcos](./ecoguia/src/assets/img/marcos.png)
 
 ## 🔗 Como Usar (Links Úteis)
 
